@@ -1,0 +1,6 @@
+@CW_7_s31105_HostAddress = http://localhost:5250
+
+GET {{CW_7_s31105_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
